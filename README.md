@@ -8,4 +8,4 @@ Modificaciones:
 Pendiente:
 - Filtrar los tipos a través de un menú desplegable.
 - Como segunda opción, filtrar pokémon a través de generación: 1ª (nº 1-150), 3ª (nº 252-386), etc etc.
-- Pulsar cada elemento despliega más información: shiny
+- Pulsar cada elemento despliega más información: ej: shiny
