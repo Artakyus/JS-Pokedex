@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', async function(){
                                 ${tipos}
                             </div>
                             <div class="pokemon-stats">
-                                <p class="stat">${poke.height} m</p>
+                                <p class="stat">${poke.height / 10} m</p>
                                 <p class="stat">${poke.weight} kg</p>
                             </div>
                         </div>`
