@@ -4,6 +4,7 @@ Pokédex en proceso, elaborada con JS. Proyecto ideado por @carpicoder
 Modificaciones: 
 - La llamada a la API se realiza ahora con una función asíncrona, para garantizar que los resultados puedan cargar en orden.
 - Pulsar cada pokémon reproduce su grito.
+- Tamaño de los pkmn corregido de decímetros a centímetros.
 
 Pendiente:
 - Filtrar los tipos a través de un menú desplegable.
